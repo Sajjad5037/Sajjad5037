@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sajjad Ali Noor @Sajjad5037
-- 👀 I’m interested in finding projects related to automation through python programming
-- 🌱 I’m currently learning "master data science with python"
-- 💞️ I’m looking to collaborate on automation projects
+- 👋 Hi, I’m Sajjad Ali Noor. i am a python programmer looking for an intership from a reputed software company @Sajjad5037
+- 👀 I’m interested in finding projects related to data science and machine learning
+- 🌱 I’m currently learning how to train learning models on complex datasets. 
+- 💞️ I’m looking to collaborate on machine learning projects 
 - 📫 this is my upwork profile: https://www.upwork.com/freelancers/sajjada71
 
 
