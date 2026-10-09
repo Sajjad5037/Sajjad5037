@@ -40,11 +40,21 @@ A workflow automation platform for managing employee evaluations, review cycles,
 - 🌐 [Live Demo](https://flowpilot-seven-tan.vercel.app)
 - 🎥 [Watch the YouTube Video Walkthrough](https://youtu.be/RVlw84E5omc)
 
-### 3. AI Knowledge Assistant — RAG & Document Intelligence
-An AI-powered knowledge assistant that retrieves relevant information from documents stored in Google Drive and uses that context to answer user questions.
+### 3. AI Tutor — Cambridge A-Level Exam Preparation
 
-**Focus areas:** Retrieval-Augmented Generation (RAG), PDF processing, embeddings, vector search, and context-aware LLM responses.
+An AI-powered tutoring platform that helps A-Level students improve their exam performance using five years of past papers. Students submit handwritten answers for evaluation against official Cambridge marking schemes and receive interactive, question-specific feedback highlighting missed marking points and how to achieve full marks. The platform also tracks student progress to support targeted learning.
 
+**Focus areas:** Python, FastAPI, React, LLM integration, document processing, AI-powered answer evaluation, marking-scheme analysis, and personalized learning.
+
+- 🌐 **Live Demo:** [AI Tutor Application](https://a-level-exam-preparation.vercel.app/)
+- 💻 **Frontend Repository:** [A-Level Exam Preparation](https://github.com/Sajjad5037/A_level_exam_preparation)
+- ⚙️ **Backend Repository:** [Useful APIs](https://github.com/Sajjad5037/useful_apis)
+- 🎥 **Video Walkthrough:** [Watch on YouTube](https://www.youtube.com/watch?v=F5qD9-2M2f0)
+
+**Demo login:**
+- Username: `guest_tutor`
+- Password: `app123`
+  
 ### 4. PDF Query Chatbot
 A document question-answering application that enables users to search documents and retrieve relevant information through a conversational interface.
 
