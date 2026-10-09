@@ -31,13 +31,14 @@ An AI-driven sales automation platform designed to help real-estate businesses c
 - 🎥 [Watch the YouTube Video Walkthrough](https://youtu.be/VSylEjoHiZ8)
 
 ### 2. FlowPilot — Performance Review Workflow Automation
+
 A workflow automation platform for managing employee evaluations, review cycles, KPI planning, meetings, notifications, and reporting.
 
 **Focus areas:** Full-stack development, business workflows, database design, reporting, and PDF generation.
 
 - 🔗 [Explore my GitHub repositories](https://github.com/Sajjad5037?tab=repositories)
 - 🌐 [Live Demo](https://flowpilot-seven-tan.vercel.app)
-
+- 🎥 [Watch the YouTube Video Walkthrough](https://youtu.be/RVlw84E5omc)
 
 ### 3. AI Knowledge Assistant — RAG & Document Intelligence
 An AI-powered knowledge assistant that retrieves relevant information from documents stored in Google Drive and uses that context to answer user questions.
