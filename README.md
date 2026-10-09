@@ -55,12 +55,13 @@ An AI-powered tutoring platform that helps A-Level students improve their exam p
 - Username: `guest_tutor`
 - Password: `app123`
   
-### 4. PDF Query Chatbot
-A document question-answering application that enables users to search documents and retrieve relevant information through a conversational interface.
+### 4. Online Assessment Platform — Exam Management & AI-Powered Learning
 
-**Focus areas:** Python, document parsing, semantic retrieval, embeddings, and LLM integration.
+An end-to-end online examination platform designed to streamline assessment creation, delivery, and performance tracking. The platform supports question bank management, automated exam generation, student attempts, detailed performance analytics, exam reviews, and AI-powered feedback to help students identify knowledge gaps and improve their results.
 
-- 🔗 [Explore my AI projects](https://github.com/Sajjad5037?tab=repositories)
+**Focus areas:** Python, FastAPI, React, PostgreSQL, REST API development, question bank management, automated exam generation, student performance analytics, and AI-powered feedback.
+
+- 🎥 **Video Walkthrough:** [Watch on YouTube](https://youtu.be/lvc8OTdNBrg)
 
 ## 💡 What I Bring to a Team
 
