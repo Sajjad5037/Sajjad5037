@@ -20,13 +20,15 @@ I enjoy working across the entire development lifecycle: designing APIs, buildin
 ## 🚀 Featured Projects
 
 ### 1. LeadFlow AI — AI-Powered Sales Automation
+
 An AI-driven sales automation platform designed to help real-estate businesses capture, qualify, prioritize, and manage leads.
 
 **Focus areas:** FastAPI, React, PostgreSQL, LLM-based lead qualification, API design, and workflow automation.
 
 - 🔗 [GitHub Repository](https://github.com/Sajjad5037/leadflow-ai)
-- 🌐 [Live Demo(admin)](https://leadflow-ai-swart.vercel.app/admin)
-- 🌐 [Live Demo(Lead facing)](https://leadflow-ai-swart.vercel.app)
+- 🌐 [Live Demo — Admin Dashboard](https://leadflow-ai-swart.vercel.app/admin)
+- 🌐 [Live Demo — Lead-Facing Application](https://leadflow-ai-swart.vercel.app)
+- 🎥 [Watch the YouTube Video Walkthrough](https://youtu.be/VSylEjoHiZ8)
 
 ### 2. FlowPilot — Performance Review Workflow Automation
 A workflow automation platform for managing employee evaluations, review cycles, KPI planning, meetings, notifications, and reporting.
