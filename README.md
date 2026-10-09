@@ -34,6 +34,8 @@ A workflow automation platform for managing employee evaluations, review cycles,
 **Focus areas:** Full-stack development, business workflows, database design, reporting, and PDF generation.
 
 - 🔗 [Explore my GitHub repositories](https://github.com/Sajjad5037?tab=repositories)
+- 🌐 [Live Demo](https://flowpilot-seven-tan.vercel.app)
+
 
 ### 3. AI Knowledge Assistant — RAG & Document Intelligence
 An AI-powered knowledge assistant that retrieves relevant information from documents stored in Google Drive and uses that context to answer user questions.
