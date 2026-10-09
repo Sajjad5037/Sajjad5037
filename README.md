@@ -26,7 +26,7 @@ An AI-driven sales automation platform designed to help real-estate businesses c
 
 - 🔗 [GitHub Repository](https://github.com/Sajjad5037/leadflow-ai)
 - 🌐 [Live Demo(admin)](https://leadflow-ai-swart.vercel.app/admin)
-- - 🌐 [Live Demo(Lead facing)](https://leadflow-ai-swart.vercel.app)
+- 🌐 [Live Demo(Lead facing)](https://leadflow-ai-swart.vercel.app)
 
 ### 2. FlowPilot — Performance Review Workflow Automation
 A workflow automation platform for managing employee evaluations, review cycles, KPI planning, meetings, notifications, and reporting.
